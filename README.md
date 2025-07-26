@@ -4,6 +4,15 @@ This is a multi-page **responsive personal portfolio** website created using **H
 
 ![Portfolio Preview](./images/port-preview.png) 
 
+---
+
+## 🚀 Live Demo
+
+🔗 [View Live Project](https://praniketkolte-dev.github.io/personal-portfolio/)  
+*(Hosted via GitHub Pages)*
+
+---
+
 ## 🛠️ Built With
 
 - HTML5
