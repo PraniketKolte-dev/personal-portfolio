@@ -2,7 +2,7 @@
 
 This is a multi-page **responsive personal portfolio** website created using **HTML** and **CSS**. It includes a Home, About, Contact page. Designed to showcase personal projects, skills, and contact information.
 
-![Portfolio Preview](./assets/port-preview.png) 
+![Portfolio Preview](./images/port-preview.png) 
 
 ## 🛠️ Built With
 
@@ -39,7 +39,7 @@ Built using CSS media queries and flexible units.
 
 | Desktop View | Mobile View |
 |--------------|-------------|
-| ![Desktop](./assets/port-preview.png) | ![Mobile](./assets/mobview-preview.png) |  
+| ![Desktop](./images/port-preview.png) | ![Mobile](./images/mobview-preview.png) |  
 
 ---
 
